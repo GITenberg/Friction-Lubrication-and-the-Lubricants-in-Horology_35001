@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37384'
     url: http://www.gutenberg.org/2009/agents/37384
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35001#Friction-Lubrication-and-the-Lubricants-in-Horology
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2011-01-19'
 gutenberg_type: Text

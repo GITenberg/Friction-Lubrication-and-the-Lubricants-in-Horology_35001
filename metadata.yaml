@@ -1,0 +1,29 @@
+_repo: Friction-Lubrication-and-the-Lubricants-in-Horology_35001
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lewis, W. T. (William T.)
+    alias: Lewis, William T.
+    gutenberg_agent_id: '37384'
+    url: http://www.gutenberg.org/2009/agents/37384
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2011-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35001'
+  lccn: 08029528
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clock and watch making'
+- !lcsh 'Friction'
+- !lcc 'TS'
+- !lcsh 'Lubrication and lubricants'
+title: Friction, Lubrication and the Lubricants in Horology
+url: http://www.gutenberg.org/ebooks/35001
